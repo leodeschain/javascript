@@ -10,3 +10,4 @@ function somaNaoMultiplosDe13(x, y) {
     return soma;
 }
 console.log(somaNaoMultiplosDe13(100,200)); // Exemplo de uso
+
