@@ -1,0 +1,11 @@
+PS C:\projects\projetodev\JAVASCRIPT> node "c:\projects\projetodev\JAVASCRIPT\gabarito19.js"
+love
+crazy u
+how is she 
+blka bla blkasa 
+0
+5
+5-2
+3-2-4
+4-3-6-1
+A maior string é:
