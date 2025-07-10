@@ -1,0 +1,21 @@
+
+//aprendizado sobre switch case
+function teste(key) {
+    switch(key){
+        case 'João':
+            //poderia adicionar ainda outro case como case 'asdasf' ou 'macarronada', mas adicionar muitos cases deixa o código deselegante e difícil de ler com muito switch case
+            console.log('João é um homem trabalhador'); //poderia usar return, o que já tornaria o break desnecessário
+            break;
+        case 'Maria':
+            console.log('Maria é uma mulher forte');
+            break;
+        case 'Getulio':
+            console.log('Getulio é um homem experiente');
+            break;
+            default:
+            break;
+    }
+
+}
+
+teste('João'); //chama a função teste passando o parâmetro João, que é um case do switch
